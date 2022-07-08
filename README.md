@@ -1,24 +1,13 @@
-Hola soy Federico actualmente estudio para Python Web Developer en [#EducacionIT](https://www.educacionit.com/).
-Este es mi progreso:
+## Hola! soy Federico, actualmente estudio para Python Web Developer en [#EducacionIT](https://www.educacionit.com/).<BR>
 
-**Ciclo Inicial**          
+### Este es mi progreso:
 
-- [X]  Python           
-- [X]  HTML5              
-- [X] CSS3              
-- [X] SQL             
-- [X] JavaScript      
+|**Ciclo Inicial**|   **Ciclo Intermedio**         |    **Ciclo Avanzado**    
+| :--- |:---|:---
+|- [X]  Python  |- [ ]   Python Avanzado     |- [ ] Python y Django
+|- [X]  HTML5    |- [ ]   Git                |- [ ] Scrum
+|- [X] CSS3      |- [ ]  JavaScript Avanzado  |- [ ] React JS
+|- [X] SQL       |- [ ]   Paradigma de OBjetos |  
+|- [X] JavaScript|                                  |
 
- **Ciclo Intermedio**
-
-- [ ]   Python Avanzado        
-- [ ]   Git                   
-- [ ]  JavaScript Avanzado    
-- [ ]   Paradigma de OBjetos  
-
-
-**Ciclo Avanzado**
-
-- [ ] Python y Django
-- [ ] Scrum
-- [ ] React JS
+###### Da un vistazo a mi [Repositorio](https://github.com/FedePodesta?tab=repositories)
