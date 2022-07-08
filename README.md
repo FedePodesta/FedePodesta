@@ -21,4 +21,4 @@ Este es mi progreso:
 
 - [ ] Python y Django
 - [ ] Scrum
-- [ ]React JS
+- [ ] React JS
