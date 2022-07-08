@@ -3,22 +3,22 @@ Este es mi progreso:
 
 **Ciclo Inicial**          
 
-- Python      - [x]      
-- HTML5       - [x]        
-- CSS3        - [x]       
-- SQL         - [x]    
-- JavaScript  - [x]     
+- [x]  Python           
+- [x]  HTML5              
+- [x] CSS3              
+- [x] SQL             
+- [x] JavaScript      
 
-**Ciclo Intermedio**
+ **Ciclo Intermedio**
 
-- Python Avanzado      - []  
-- Git                  - []  
-- JavaScript Avanzado  - []  
-- Paradigma de OBjetos - []  
+- []   Python Avanzado        
+- []   Git                   
+- []  JavaScript Avanzado    
+- []   Paradigma de OBjetos  
 
 
 **Ciclo Avanzado**
 
--Python y Django
--Scrum
--React JS
+- [] Python y Django
+- [] Scrum
+- []React JS
