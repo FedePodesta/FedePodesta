@@ -1,7 +1,7 @@
-Hola soy **Federico actualmente estudio para **Python Web Developer en [#EducacionIT](https://www.educacionit.com/).
+Hola soy Federico actualmente estudio para Python Web Developer en [#EducacionIT](https://www.educacionit.com/).
 Este es mi progreso:
 __________________________________________________________________________
-**Ciclo Inicial    |       **Ciclo    Intermedio      |     **Ciclo Avanzado
+Ciclo Inicial    |       Ciclo    Intermedio      |     Ciclo Avanzado
 _________________|________________________________|________________________
 ◽ Python      ✅     ◽ Python Avanzado      ⬜      ◽Python y Django ⬜
 ◽ HTML5       ✅     ◽ Git                  ⬜      ◽Scrum           ⬜
