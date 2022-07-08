@@ -10,8 +10,8 @@
 |✅  SQL       |🟦Paradigma de OBjetos |  
 |✅ JavaScript|                                  |
 ###### ✅-Completo 🟦-Cursando- ⬜-sin cursar
-##### Tambien me estoy formando/formé en: 
-##### - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
+##### Tambien me estoy formando/formé en:  - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
+
 
 
 
