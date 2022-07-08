@@ -10,4 +10,7 @@
 |- [X] SQL       |- [ ]   Paradigma de OBjetos |  
 |- [X] JavaScript|                                  |
 
-###### Da un vistazo a mi [Repositorio](https://github.com/FedePodesta?tab=repositories)
+###### Tambien me estoy formando/formé en: 
+###### - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
+
+
