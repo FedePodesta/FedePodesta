@@ -4,13 +4,14 @@
 
 |**Ciclo Inicial**|   **Ciclo Intermedio**         |    **Ciclo Avanzado**    
 | :--- |:---|:---
-|- [X]  Python  |- [ ]   Python Avanzado     |- [ ] Python y Django
-|- [X]  HTML5    |- [ ]   Git                |- [ ] Scrum
-|- [X] CSS3      |- [ ]  JavaScript Avanzado  |- [ ] React JS
-|- [X] SQL       |- [ ]   Paradigma de OBjetos |  
-|- [X] JavaScript|                                  |
+|✅ Python  |🟦Python Avanzado     |⬜Python y Django
+|✅ HTML5    |🟦 Git                |⬜Scrum
+|✅ CSS3      |🟦 JavaScript Avanzado  |⬜React JS
+|✅  SQL       |🟦Paradigma de OBjetos |  
+|✅ JavaScript|                                  |
+###### ✅-Completo 🟦-Cursando- ⬜-sin cursar
+##### Tambien me estoy formando/formé en: 
+##### - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
 
-###### Tambien me estoy formando/formé en: 
-###### - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
 
 
