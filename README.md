@@ -1,11 +1,24 @@
 Hola soy Federico actualmente estudio para Python Web Developer en [#EducacionIT](https://www.educacionit.com/).
 Este es mi progreso:
-__________________________________________________________________________
-Ciclo Inicial    |       Ciclo    Intermedio      |     Ciclo Avanzado
-_________________|________________________________|________________________
-◽ Python      ✅     ◽ Python Avanzado      ⬜      ◽Python y Django ⬜
-◽ HTML5       ✅     ◽ Git                  ⬜      ◽Scrum           ⬜
-◽ CSS3        ✅     ◽ JavaScript Avanzado  ⬜      ◽React JS        ⬜
-◽ SQL         ✅     ◽ Paradigma de Objetos ⬜
-◽ JavaScript  ✅     
-_________________________________________________________________________
+
+Ciclo Inicial    |      
+
+-Python      ✅     
+-HTML5       ✅     
+-CSS3        ✅    
+-SQL         ✅    
+-JavaScript  ✅     
+
+Ciclo Intermedio
+
+-Python Avanzado⬜
+-Git
+-JavaScript Avanzado
+- Paradigma de OBjetos
+
+
+Ciclo Avanzado
+
+-Python y Django
+-Scrum
+-React JS
