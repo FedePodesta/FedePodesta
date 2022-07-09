@@ -1,4 +1,4 @@
-## Hola! soy Federico, actualmente estudio para Python Web Developer en [#EducacionIT](https://www.educacionit.com/).<BR>
+Hola! soy Federico, actualmente estudio para Python Web Developer en [#Educación](https://www.educacionit.com/).<BR>
 
 ### Este es mi progreso:
 
@@ -7,11 +7,7 @@
 |✅ Python  |🟦Python Avanzado     |⬜Python y Django
 |✅ HTML5    |🟦 Git                |⬜Scrum
 |✅ CSS3      |🟦 JavaScript Avanzado  |⬜React JS
-|✅  SQL       |🟦Paradigma de OBjetos |  
+|✅  SQL       |🟦Paradigma de Objetos |  
 |✅ JavaScript|                                  |
 ###### ✅-Completo 🟦-Cursando- ⬜-sin cursar
-##### Tambien me estoy formando/formé en:  - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
-
-
-
-
+##### También me estoy formando/formé en:  - [FreeCodeCamp](www.freecodecamp.org) /  - [CodeWars](www.codewars.com) / [GrassHopper](https://grasshopper.app/es_419/)
