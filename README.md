@@ -1,4 +1,4 @@
-Hola! soy Federico, actualmente estudio para Python Web Developer en [#Educación](https://www.educacionit.com/).<BR>
+Hola! soy Federico, actualmente estudio para Python Web Developer en [#EducaciónIT](https://www.educacionit.com/).<BR>
 
 ### Este es mi progreso:
 
