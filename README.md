@@ -1,4 +1,6 @@
-<h3 align="center">Trainee en Front-End</h3>
+<h3 align="center">Trainee </h3>
+<h2 align="center">Front End Web Developer | Python Developer</h2>
+
 
 
 <h3 align="left">Contactame:</h3>
