@@ -1,5 +1,5 @@
-<h3 align="center">Trainee </h3>
-<h2 align="center">Front End Web Developer | Python Developer</h2>
+
+<h2 align="center"> Full Stack Jr | Python Developer</h2>
 
 
 
