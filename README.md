@@ -1,5 +1,5 @@
 
-<h2 align="center"> Full Stack Jr | Python Developer</h2>
+<h2 align="center"> Fjr</h2>
 
 
 
